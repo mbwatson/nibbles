@@ -1,9 +1,9 @@
-var s;
-var res = 20;
-var f;
-var food = [];
-var food_count = 3;
-var wall = [];
+let s;
+const res = 10;
+let f;
+let food = [];
+let food_count = 3;
+let wall = [];
 
 function setup() {
 	createCanvas(600, 600);
